@@ -1,5 +1,8 @@
-body{
-    background-color: fuchsia;
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: fuchsia;
+    color: white;
+    text-align: center;
 }
 h1{
     color: blueviolet;
